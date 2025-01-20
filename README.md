@@ -38,8 +38,6 @@ The main objective is to analyze a portfolio comprising the following indices:
 - **Libraries**:
   - `yfinance`: For retrieving historical stock/index data.
   - `pandas` and `numpy`: For data manipulation and numerical computations.
-  - `matplotlib` and `seaborn`: For data visualization.
-  - `scipy.optimize`: For portfolio optimization.
 
 ---
 
