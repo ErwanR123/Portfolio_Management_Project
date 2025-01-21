@@ -27,10 +27,6 @@ The main objective is to analyze a portfolio comprising the following indices:
    - Evaluate the covariance matrix to assess asset relationships.
 3. **Portfolio Optimization**:
    - Find the Tangent Portfolio by maximizing the Sharpe ratio.
-4. **Visualization**:
-   - Plot the Efficient Frontier.
-   - Highlight the Tangent Portfolio on the plot for easy interpretation.
-
 ---
 
 ## **Technologies Used**
