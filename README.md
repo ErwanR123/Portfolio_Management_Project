@@ -1,4 +1,4 @@
-# Portfolio_Management_Project
+# Portfolio Management Project
 
 This project demonstrates how to manage an investment portfolio by analyzing and optimizing asset allocations across different indices. Using Python, the project explores financial metrics, such as annualized returns, volatility, and the Sharpe ratio, to identify the optimal Tangent Portfolio.
 
